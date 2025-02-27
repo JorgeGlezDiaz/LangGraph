@@ -3,6 +3,8 @@
 
 This project is a demo to study how it works LangChain and LangGraph.
 
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
 ### ⚠️ IMPORTANT ⚠️ 
 > It is important to know that this code may have errors due to the lack of experience of his creator. Good luck! 🚀🚀
