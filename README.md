@@ -6,6 +6,18 @@ This project is a demo to study how it works LangChain and LangGraph.
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
 ### ⚠️ IMPORTANT ⚠️ 
 > It is important to know that this code may have errors due to the lack of experience of his creator. Good luck! 🚀🚀
 
