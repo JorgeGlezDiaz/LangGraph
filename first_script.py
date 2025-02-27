@@ -1,7 +1,4 @@
-# sudo apt install python3-pip
-# pip install langchain langgraph openai
 
-# pip install graphviz to see 
 
 import os
 import graphviz
