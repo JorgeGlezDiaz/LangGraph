@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "app"
+version = "0.1.0"
+description = ""
+authors = ["jorgeglezdiaz <jorgeglezdiaz2000@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<4.0.0"
+python-dotenv = ">=1.0.1,<2.0.0"
+langgraph-cli = "^0.1.74"
+fastapi = {extras = ["standard"], version = "^0.115.9"}
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
