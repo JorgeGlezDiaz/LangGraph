@@ -1,0 +1,7 @@
+digraph {
+	A [label=Inicio]
+	B [label=Proceso]
+	C [label=Fin]
+	A -> B
+	B -> C
+}
